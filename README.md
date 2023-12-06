@@ -1,5 +1,5 @@
 <h1 align="center">hi, i'm toastedpumpkin</h1>
-<h3 align="center">just someone who randomly codes things</h3>
+<h3 align="center">i'm just someone who randomly codes things</h3>
 
 - 🔭 I’m currently working on [DWS](https://github.com/toastedpumpkin/discord-webhook-spammer)
 
